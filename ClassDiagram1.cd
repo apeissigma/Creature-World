@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="CreatureWorld.World">
+    <Position X="0.5" Y="4.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AEAAAQAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAQAAAAAI=</HashCode>
+      <FileName>World.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreatureWorld.Location">
+    <Position X="12" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAggIQAAAiIAAAAAAAAAQAgAAAAAA=</HashCode>
+      <FileName>Location.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreatureWorld.Library">
+    <Position X="0.5" Y="0.5" Width="3" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="CreatureWorld.Library.PrintDel">
+        <TypeIdentifier>
+          <NewMemberFileName>Library.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAgICAQIAAAAAQAAAAAEAAA=</HashCode>
+      <FileName>Library.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreatureWorld.Creature">
+    <Position X="6" Y="2.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAIIgiAAAAAAAAAAACAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreatureWorld.Human">
+    <Position X="4.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Human.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CreatureWorld.Cat">
+    <Position X="6.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreatureWorld.Bird">
+    <Position X="8.25" Y="5.75" Width="1.5" />
+    <InheritanceLine Type="CreatureWorld.Creature" FixedToPoint="true">
+      <Path>
+        <Point X="7.25" Y="4.959" />
+        <Point X="7.25" Y="5.375" />
+        <Point X="9" Y="5.375" />
+        <Point X="9" Y="5.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bird.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreatureWorld.TwentyFirstSt">
+    <Position X="14.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TwentyFirstSt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreatureWorld.MonticelloAve">
+    <Position X="10.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MonticelloAve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreatureWorld.SchoolSt">
+    <Position X="12.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SchoolSt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CreatureWorld.IArtist">
+    <Position X="9" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IArtist.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="CreatureWorld.SpeciesType">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAABAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creature.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CreatureWorld.AppearanceType">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAABAAAAAAAAACAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Creature.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CreatureWorld.SizeType">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAAAAACAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creature.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CreatureWorld.PersonalityType">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gABBAAAEAAAAgAAAAAAAAAAAIAAAAAAAAAAAQAAAAAQ=</HashCode>
+      <FileName>Creature.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
