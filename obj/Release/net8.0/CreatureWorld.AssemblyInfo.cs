@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CreatureWorld")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd6954379f4455b2ef9fce9d9273118a52eaee29")]
 [assembly: System.Reflection.AssemblyProductAttribute("CreatureWorld")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CreatureWorld")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

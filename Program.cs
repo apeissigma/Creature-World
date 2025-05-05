@@ -6,7 +6,8 @@ namespace CreatureWorld
     {
         static void Main(string[] args)
         {
-            string Title = "Creature World!";
+            string title = "Creature World!";
+            Console.Title = title; 
 
             World world = new World();
             world.Run();

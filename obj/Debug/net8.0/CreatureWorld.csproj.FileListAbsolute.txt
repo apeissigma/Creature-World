@@ -41,3 +41,18 @@ C:\Users\apeis\Desktop\SCHOOL\PROG201 - Programming II\Visual Studio\CreatureWor
 C:\Users\apeis\Desktop\SCHOOL\PROG201 - Programming II\Visual Studio\CreatureWorld\CreatureWorld\obj\Debug\net8.0\CreatureWorld.pdb
 C:\Users\apeis\Desktop\SCHOOL\PROG201 - Programming II\Visual Studio\CreatureWorld\CreatureWorld\obj\Debug\net8.0\CreatureWorld.genruntimeconfig.cache
 C:\Users\apeis\Desktop\SCHOOL\PROG201 - Programming II\Visual Studio\CreatureWorld\CreatureWorld\obj\Debug\net8.0\ref\CreatureWorld.dll
+C:\Users\apeis\Desktop\SCHOOL\PROG201 - Programming II\GitRepos\CreatureWorld\CreatureWorld\bin\Debug\net8.0\CreatureWorld.exe
+C:\Users\apeis\Desktop\SCHOOL\PROG201 - Programming II\GitRepos\CreatureWorld\CreatureWorld\bin\Debug\net8.0\CreatureWorld.deps.json
+C:\Users\apeis\Desktop\SCHOOL\PROG201 - Programming II\GitRepos\CreatureWorld\CreatureWorld\bin\Debug\net8.0\CreatureWorld.runtimeconfig.json
+C:\Users\apeis\Desktop\SCHOOL\PROG201 - Programming II\GitRepos\CreatureWorld\CreatureWorld\bin\Debug\net8.0\CreatureWorld.dll
+C:\Users\apeis\Desktop\SCHOOL\PROG201 - Programming II\GitRepos\CreatureWorld\CreatureWorld\bin\Debug\net8.0\CreatureWorld.pdb
+C:\Users\apeis\Desktop\SCHOOL\PROG201 - Programming II\GitRepos\CreatureWorld\CreatureWorld\obj\Debug\net8.0\CreatureWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeis\Desktop\SCHOOL\PROG201 - Programming II\GitRepos\CreatureWorld\CreatureWorld\obj\Debug\net8.0\CreatureWorld.AssemblyInfoInputs.cache
+C:\Users\apeis\Desktop\SCHOOL\PROG201 - Programming II\GitRepos\CreatureWorld\CreatureWorld\obj\Debug\net8.0\CreatureWorld.AssemblyInfo.cs
+C:\Users\apeis\Desktop\SCHOOL\PROG201 - Programming II\GitRepos\CreatureWorld\CreatureWorld\obj\Debug\net8.0\CreatureWorld.csproj.CoreCompileInputs.cache
+C:\Users\apeis\Desktop\SCHOOL\PROG201 - Programming II\GitRepos\CreatureWorld\CreatureWorld\obj\Debug\net8.0\CreatureWorld.sourcelink.json
+C:\Users\apeis\Desktop\SCHOOL\PROG201 - Programming II\GitRepos\CreatureWorld\CreatureWorld\obj\Debug\net8.0\CreatureWorld.dll
+C:\Users\apeis\Desktop\SCHOOL\PROG201 - Programming II\GitRepos\CreatureWorld\CreatureWorld\obj\Debug\net8.0\refint\CreatureWorld.dll
+C:\Users\apeis\Desktop\SCHOOL\PROG201 - Programming II\GitRepos\CreatureWorld\CreatureWorld\obj\Debug\net8.0\CreatureWorld.pdb
+C:\Users\apeis\Desktop\SCHOOL\PROG201 - Programming II\GitRepos\CreatureWorld\CreatureWorld\obj\Debug\net8.0\CreatureWorld.genruntimeconfig.cache
+C:\Users\apeis\Desktop\SCHOOL\PROG201 - Programming II\GitRepos\CreatureWorld\CreatureWorld\obj\Debug\net8.0\ref\CreatureWorld.dll
